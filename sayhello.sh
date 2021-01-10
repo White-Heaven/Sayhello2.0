@@ -23,9 +23,9 @@ printf "\e[1;93m              |___/                        \e[0m\e[1;92m\__ \e[0
 printf "\e[1;92m                                              \ \e[0m\n"
 
 
-printf "\e[1;77m v1.0 Coded BY DARKHEAVEN\e[0m \n"
+printf "\e[1;77m v2.0 [Coded BY DARKHEAVEN]\e[0m \n"
 
-printf " Instagram:b@dark_h_e_a_v_e_n\n"
+printf " Instagram:@dark_h_e_a_v_e_n\n"
 
 
 }
