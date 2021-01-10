@@ -7,7 +7,7 @@ Audio phishing
 
 `git clone https://github.com/White-Heaven/Sayhello2.0.git `
 
-´cd sayhello2.0 `
+`cd sayhello2.0 `
 
 `chmod +x * `
 
