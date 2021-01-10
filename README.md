@@ -1,5 +1,7 @@
 # Sayhello2.0
-Audio phishing 
+#Audio phishing 
+
+`pkg install bash `
 
 `apt update `
 
