@@ -1,7 +1,8 @@
 # Sayhello2.0
 #Audio phishing 
 
-`pkg install bash `
+`pkg install whiteheaven '
+
 
 `apt update `
 
